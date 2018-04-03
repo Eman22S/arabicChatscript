@@ -1,0 +1,10 @@
+topic: ~introductio []
+t: مرحباً بك انا صوفيا
+u:(ما اسمك؟)  ^keep() ^repeat() انا سوفيا
+u:  (أين تعيشين؟)  ^keep() ^repeat() أنا أعيش في جهاز الكمبيوتر الخاص بك
+u: (أين تعيشين؟)  ^keep() ^repeat() أنا أعيش في جهاز الكمبيوتر الخاص بك
+u: ( what do you know about aids? ) ^keep() ^repeat() إنه رهيب حقاً
+u: ( AIDS is the worst thing that happend to human kind) ^keep() ^repeat()   هممم, انا ارى ذالك
+
+
+
